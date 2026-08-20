@@ -1,0 +1,5623 @@
+[
+  {
+    "path": "references/source/sdk/applications/sample/wifi-iot/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 878,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/applications/sample/wifi-iot/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "wifi"
+    ],
+    "size": 799,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_lite/interfaces/kits/js/builtin/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1210,
+    "source_scope": "public-api"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 36979,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 36708,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_lite/tools/i18n-dat-tool/src/main/java/resource/decimalPlurals.txt",
+    "title": "decimalPlurals",
+    "topics": [],
+    "size": 2514,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_lite/tools/i18n-dat-tool/src/main/java/resource/locales.txt",
+    "title": "locales",
+    "topics": [],
+    "size": 3092,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_lite/tools/i18n-dat-tool/src/main/java/resource/plural.txt",
+    "title": "plural",
+    "topics": [],
+    "size": 2825,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_standard/NOTICE.html",
+    "title": "NOTICE",
+    "topics": [],
+    "size": 2018,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_standard/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2099,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/i18n_standard/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1794,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/resmgr_lite/frameworks/resmgr_lite/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1170,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/resmgr_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2326,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/global/resmgr_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 2013,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/blackbox/README.en.md",
+    "title": "README.en",
+    "topics": [],
+    "size": 962,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/blackbox/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1323,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/faultloggerd/docs/design.md",
+    "title": "design",
+    "topics": [],
+    "size": 2026,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/faultloggerd/docs/usage.md",
+    "title": "usage",
+    "topics": [],
+    "size": 7122,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/faultloggerd/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 13120,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiappevent/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 7445,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiappevent/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 6460,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hicollie/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1580,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hicollie/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1699,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hidumper_lite/README.en.md",
+    "title": "README.en",
+    "topics": [],
+    "size": 967,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hidumper_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1328,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hievent_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1313,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hievent_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1259,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hilog/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 5776,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hilog/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 5519,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hilog_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 26219,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hilog_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 17281,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hisysevent/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 6355,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hisysevent/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 4751,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hitrace/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 8591,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hitrace/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 6313,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/adapter/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 58,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/adapter/system_service/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 576,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/adapter/utility/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 900,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/base/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1839,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1862,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/core/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 434,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3605,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 3237,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1514,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/hiviewdfx/hiview_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1342,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/iot_hardware/peripheral/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 963,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/iot_hardware/peripheral/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 751,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/powermgr/battery_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 6067,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/powermgr/battery_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 5909,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/powermgr/powermgr_lite/interfaces/kits/battery/js/builtin/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1244,
+    "source_scope": "public-api"
+  },
+  {
+    "path": "references/source/sdk/base/powermgr/powermgr_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 5082,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/powermgr/powermgr_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 5137,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/appverify/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 5521,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/appverify/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "security"
+    ],
+    "size": 4770,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/dataclassification/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 6081,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/dataclassification/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "security"
+    ],
+    "size": 5878,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/deviceauth/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 10798,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/deviceauth/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "security"
+    ],
+    "size": 10071,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/huks/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 2054,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/huks/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "security"
+    ],
+    "size": 1872,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/permission/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 25336,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/security/permission/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "security"
+    ],
+    "size": 23880,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/sensors/miscdevice_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 685,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/sensors/miscdevice_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 648,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/sensors/sensor_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 7817,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/sensors/sensor_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 7449,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/appspawn_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1708,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/appspawn_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1582,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/appspawn_standard/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 982,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/appspawn_standard/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 670,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/bootstrap_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1664,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/bootstrap_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1567,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/init_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 20401,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/init_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 17103,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/syspara_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2382,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/startup/syspara_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 2134,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/update/ota_lite/README.md",
+    "title": "README",
+    "topics": [
+      "ota"
+    ],
+    "size": 3254,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/base/update/ota_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "ota"
+    ],
+    "size": 2995,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/config/sanitizers/cfi_blocklist.txt",
+    "title": "cfi_blocklist",
+    "topics": [],
+    "size": 790,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/config/sanitizers/integer_overflow_blocklist.txt",
+    "title": "integer_overflow_blocklist",
+    "topics": [],
+    "size": 105,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/docs/how-to-build-a-hap.md",
+    "title": "how-to-build-a-hap",
+    "topics": [],
+    "size": 3519,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/docs/关于deps及external_deps的使用.md",
+    "title": "关于deps及external_deps的使用",
+    "topics": [],
+    "size": 2400,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/docs/标准系统如何添加一个模块.md",
+    "title": "标准系统如何添加一个模块",
+    "topics": [],
+    "size": 8526,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/docs/编译扫描说明.md",
+    "title": "编译扫描说明",
+    "topics": [],
+    "size": 1465,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/lite/ndk/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3647,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 7996,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 6868,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/ohos/images/mkimage/dac.txt",
+    "title": "dac",
+    "topics": [],
+    "size": 1360,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/ohos/images/mkimage/README.txt",
+    "title": "README",
+    "topics": [],
+    "size": 2087,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/ohos/images/mkimage/system_image_conf.txt",
+    "title": "system_image_conf",
+    "topics": [],
+    "size": 80,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/ohos/images/mkimage/updater_image_conf.txt",
+    "title": "updater_image_conf",
+    "topics": [],
+    "size": 86,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/ohos/images/mkimage/userdata_image_conf.txt",
+    "title": "userdata_image_conf",
+    "topics": [],
+    "size": 84,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/ohos/images/mkimage/vendor_image_conf.txt",
+    "title": "vendor_image_conf",
+    "topics": [],
+    "size": 85,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 6397,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/tools/check_deps/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1512,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/build/tools/module_dependence/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3761,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/hi3861_adapter/kal/cmsis/LICENSE.txt",
+    "title": "LICENSE",
+    "topics": [],
+    "size": 11357,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 7038,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 5671,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/build/libs/boot_libs/README.txt",
+    "title": "README",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 37,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/license/apache-2.0.txt",
+    "title": "apache-2.0",
+    "topics": [
+      "liteos"
+    ],
+    "size": 10173,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 12302,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/mbedtls/include/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "liteos",
+      "security"
+    ],
+    "size": 501,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/.github/pull_request_template.md",
+    "title": "pull_request_template",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 190,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/boundary/nitrogen6x/6x_bootscript.txt",
+    "title": "6x_bootscript",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1581,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/boundary/nitrogen6x/6x_bootscript_android.txt",
+    "title": "6x_bootscript_android",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1612,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/boundary/nitrogen6x/6x_bootscript_android_recovery.txt",
+    "title": "6x_bootscript_android_recovery",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1612,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/boundary/nitrogen6x/6x_upgrade.txt",
+    "title": "6x_upgrade",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1329,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/develop-arm.txt",
+    "title": "develop-arm",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 116,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/develop-common.txt",
+    "title": "develop-common",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 644,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/develop-ppc_82xx.txt",
+    "title": "develop-ppc_82xx",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 116,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/develop-ppc_8xx.txt",
+    "title": "develop-ppc_8xx",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 116,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/ramfs-arm.txt",
+    "title": "ramfs-arm",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 114,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/ramfs-common.txt",
+    "title": "ramfs-common",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 813,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/ramfs-ppc_82xx.txt",
+    "title": "ramfs-ppc_82xx",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 114,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/keymile/scripts/ramfs-ppc_8xx.txt",
+    "title": "ramfs-ppc_8xx",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 114,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/qualcomm/dragonboard410c/readme.txt",
+    "title": "readme",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1967,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/qualcomm/dragonboard820c/readme.txt",
+    "title": "readme",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 19297,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/samsung/common/dfu_sample_env.txt",
+    "title": "dfu_sample_env",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 377,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/topic/zynq/zynq-topic-miami/ps7_regs.txt",
+    "title": "ps7_regs",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1310,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/topic/zynq/zynq-topic-miamilite/ps7_regs.txt",
+    "title": "ps7_regs",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1272,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/board/topic/zynq/zynq-topic-miamiplus/ps7_regs.txt",
+    "title": "ps7_regs",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1287,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/adc/adc.txt",
+    "title": "adc",
+    "topics": [
+      "adc",
+      "liteos",
+      "ota"
+    ],
+    "size": 1860,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/adc/st,stm32-adc.txt",
+    "title": "st,stm32-adc",
+    "topics": [
+      "adc",
+      "liteos",
+      "ota"
+    ],
+    "size": 5569,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/arm/l2c2x0.txt",
+    "title": "l2c2x0",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5779,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/ata/intel-sata.txt",
+    "title": "intel-sata",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 818,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/axi/gdsys,ihs_axi.txt",
+    "title": "gdsys,ihs_axi",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 515,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/board/gdsys,board_gazerbeam.txt",
+    "title": "gdsys,board_gazerbeam",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1323,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/chosen.txt",
+    "title": "chosen",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3761,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/fixed-factor-clock.txt",
+    "title": "fixed-factor-clock",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 597,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/fsl,mpc83xx-clk.txt",
+    "title": "fsl,mpc83xx-clk",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 667,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/microchip,pic32-clock.txt",
+    "title": "microchip,pic32-clock",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 927,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/nvidia,tegra20-car.txt",
+    "title": "nvidia,tegra20-car",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3663,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/rockchip,rk3188-cru.txt",
+    "title": "rockchip,rk3188-cru",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2017,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/rockchip,rk3288-cru.txt",
+    "title": "rockchip,rk3288-cru",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1959,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/rockchip,rk3288-dmc.txt",
+    "title": "rockchip,rk3288-dmc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5553,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/rockchip,rk3368-dmc.txt",
+    "title": "rockchip,rk3368-dmc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2287,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/rockchip,rk3399-dmc.txt",
+    "title": "rockchip,rk3399-dmc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1540,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/rockchip.txt",
+    "title": "rockchip",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2337,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/snps,hsdk-cgu.txt",
+    "title": "snps,hsdk-cgu",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1110,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/st,stm32-rcc.txt",
+    "title": "st,stm32-rcc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2659,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/st,stm32h7-rcc.txt",
+    "title": "st,stm32h7-rcc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4120,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/st,stm32mp1.txt",
+    "title": "st,stm32mp1",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 8751,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/clock/ti,sci-clk.txt",
+    "title": "ti,sci-clk",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1688,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/config.txt",
+    "title": "config",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2062,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/cpu/fsl,mpc83xx.txt",
+    "title": "fsl,mpc83xx",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 939,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/cpu/nios2.txt",
+    "title": "nios2",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1728,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/exynos/dwmmc.txt",
+    "title": "dwmmc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1877,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/exynos/emmc-reset.txt",
+    "title": "emmc-reset",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 340,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/exynos/isp-spi.txt",
+    "title": "isp-spi",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 671,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/exynos/soc.txt",
+    "title": "soc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 591,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/exynos/sound.txt",
+    "title": "sound",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 947,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/exynos/tmu.txt",
+    "title": "tmu",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1849,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/firmware/linaro,optee-tz.txt",
+    "title": "linaro,optee-tz",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 899,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/firmware/nvidia,tegra186-bpmp.txt",
+    "title": "nvidia,tegra186-bpmp",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3495,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/firmware/ti,sci.txt",
+    "title": "ti,sci",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2396,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/fpga/altera-socfpga-a10-fpga-mgr.txt",
+    "title": "altera-socfpga-a10-fpga-mgr",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1627,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/altera_pio.txt",
+    "title": "altera_pio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 728,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/bcm2835-gpio.txt",
+    "title": "bcm2835-gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 150,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/gpio-msm.txt",
+    "title": "gpio-msm",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 688,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/gpio-pcf857x.txt",
+    "title": "gpio-pcf857x",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 2995,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/gpio-samsung.txt",
+    "title": "gpio-samsung",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 1253,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/gpio.txt",
+    "title": "gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 7814,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/intel,x86-broadwell-pinctrl.txt",
+    "title": "intel,x86-broadwell-pinctrl",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 6886,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/intel,x86-pinctrl.txt",
+    "title": "intel,x86-pinctrl",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 1294,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/mscc_sgpio.txt",
+    "title": "mscc_sgpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 1746,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/nvidia,tegra186-gpio.txt",
+    "title": "nvidia,tegra186-gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 6918,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/nvidia,tegra20-gpio.txt",
+    "title": "nvidia,tegra20-gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 1349,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/pm8916_gpio.txt",
+    "title": "pm8916_gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 925,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpio/snps,creg-gpio.txt",
+    "title": "snps,creg-gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 1574,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/gpu/nvidia,tegra20-host1x.txt",
+    "title": "nvidia,tegra20-host1x",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 12683,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/i2c-at91.txt",
+    "title": "i2c-at91",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 779,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/i2c-cdns.txt",
+    "title": "i2c-cdns",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 633,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/i2c-gpio.txt",
+    "title": "i2c-gpio",
+    "topics": [
+      "gpio",
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 757,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/i2c-mux.txt",
+    "title": "i2c-mux",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 1244,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/i2c-stm32.txt",
+    "title": "i2c-stm32",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 984,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/i2c.txt",
+    "title": "i2c",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 1433,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/nvidia,tegra186-bpmp-i2c.txt",
+    "title": "nvidia,tegra186-bpmp-i2c",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 1159,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/i2c/tegra20-i2c.txt",
+    "title": "tegra20-i2c",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 681,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/input/cros-ec-keyb.txt",
+    "title": "cros-ec-keyb",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2706,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/input/i8042.txt",
+    "title": "i8042",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 278,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/leds/common.txt",
+    "title": "common",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 814,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/leds/leds-bcm6328.txt",
+    "title": "leds-bcm6328",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2760,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/leds/leds-bcm6358.txt",
+    "title": "leds-bcm6358",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2874,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/leds/leds-bcm6858.txt",
+    "title": "leds-bcm6858",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1508,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/leds/leds-gpio.txt",
+    "title": "leds-gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 1497,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mailbox/k3-secure-proxy.txt",
+    "title": "k3-secure-proxy",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1029,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mailbox/mailbox.txt",
+    "title": "mailbox",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 652,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mailbox/nvidia,tegra186-hsp.txt",
+    "title": "nvidia,tegra186-hsp",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1769,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/memory/memory.txt",
+    "title": "memory",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2001,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/memory-controllers/k3-am654-ddrss.txt",
+    "title": "k3-am654-ddrss",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1655,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/memory-controllers/st,stm32-fmc.txt",
+    "title": "st,stm32-fmc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1532,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/memory-controllers/st,stm32mp1-ddr.txt",
+    "title": "st,stm32mp1-ddr",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 6114,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/altera_sysid.txt",
+    "title": "altera_sysid",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 77,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/cros-ec.txt",
+    "title": "cros-ec",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1062,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/fs_loader.txt",
+    "title": "fs_loader",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1384,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/intel,baytrail-fsp.txt",
+    "title": "intel,baytrail-fsp",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3783,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/intel,irq-router.txt",
+    "title": "intel,irq-router",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2834,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/intel-lpc.txt",
+    "title": "intel-lpc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1880,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/misc/fsl,mpc83xx-serdes.txt",
+    "title": "fsl,mpc83xx-serdes",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 750,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/misc/gdsys,io-endpoint.txt",
+    "title": "gdsys,io-endpoint",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 544,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/misc/gdsys,iocon_fpga.txt",
+    "title": "gdsys,iocon_fpga",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 538,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/misc/gdsys,iocpu_fpga.txt",
+    "title": "gdsys,iocpu_fpga",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 538,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/misc/misc/gdsys,soc.txt",
+    "title": "gdsys,soc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 397,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mmc/msm_sdhci.txt",
+    "title": "msm_sdhci",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 690,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mmc/snps,dw-mmc.txt",
+    "title": "snps,dw-mmc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 979,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mtd/altera_qspi.txt",
+    "title": "altera_qspi",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1257,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mtd/mtd-physmap.txt",
+    "title": "mtd-physmap",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2977,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mtd/spi/spi-flash.txt",
+    "title": "spi-flash",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi",
+      "storage"
+    ],
+    "size": 890,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mtd/spi-nand.txt",
+    "title": "spi-nand",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 143,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/mtd/stm32-fmc2-nand.txt",
+    "title": "stm32-fmc2-nand",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1809,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/nand/nvidia,tegra20-nand.txt",
+    "title": "nvidia,tegra20-nand",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1435,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/allwinner,sun4i-emac.txt",
+    "title": "allwinner,sun4i-emac",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 576,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/allwinner,sun4i-mdio.txt",
+    "title": "allwinner,sun4i-mdio",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 593,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/allwinner,sun7i-a20-gmac.txt",
+    "title": "allwinner,sun7i-a20-gmac",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 816,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/altera_tse.txt",
+    "title": "altera_tse",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4069,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/ethernet.txt",
+    "title": "ethernet",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1497,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/fixed-link.txt",
+    "title": "fixed-link",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 856,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/fsl-tsec-phy.txt",
+    "title": "fsl-tsec-phy",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1898,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/mediatek,mt7628-eth.txt",
+    "title": "mediatek,mt7628-eth",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 415,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/micrel-ksz90x1.txt",
+    "title": "micrel-ksz90x1",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5832,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/snps,dwc-qos-ethernet.txt",
+    "title": "snps,dwc-qos-ethernet",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 7104,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/stmmac.txt",
+    "title": "stmmac",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2787,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/net/ti,dp83867.txt",
+    "title": "ti,dp83867",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1256,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pci/armada8k-pcie.txt",
+    "title": "armada8k-pcie",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1839,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/phy/no-op.txt",
+    "title": "no-op",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 378,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/phy/phy-stih407-usb.txt",
+    "title": "phy-stih407-usb",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1018,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/phy/phy-stm32-usbphyc.txt",
+    "title": "phy-stm32-usbphyc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2270,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/phy/sun4i-usb-phy.txt",
+    "title": "sun4i-usb-phy",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2465,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/atmel,at91-pio4-pinctrl.txt",
+    "title": "atmel,at91-pio4-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1478,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/bcm6838-pinctrl.txt",
+    "title": "bcm6838-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 785,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/marvell,armada-37xx-pinctrl.txt",
+    "title": "marvell,armada-37xx-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3586,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/marvell,armada-apn806-pinctrl.txt",
+    "title": "marvell,armada-apn806-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 739,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/marvell,armada-cp110-pinctrl.txt",
+    "title": "marvell,armada-cp110-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 8463,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/marvell,mvebu-pinctrl.txt",
+    "title": "marvell,mvebu-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3660,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/pinctrl-bindings.txt",
+    "title": "pinctrl-bindings",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 8381,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/rockchip,pinctrl.txt",
+    "title": "rockchip,pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4944,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pinctrl/st,stm32-pinctrl.txt",
+    "title": "st,stm32-pinctrl",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3854,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pmic/max77686.txt",
+    "title": "max77686",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 808,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pmic/pm8916.txt",
+    "title": "pm8916",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 409,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pmic/rn5t567.txt",
+    "title": "rn5t567",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 325,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pmic/s2mps11.txt",
+    "title": "s2mps11",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 341,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pmic/sandbox.txt",
+    "title": "sandbox",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 874,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/power/ti,sci-pm-domain.txt",
+    "title": "ti,sci-pm-domain",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1579,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/power/tps65090.txt",
+    "title": "tps65090",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 397,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pwm/pwm.txt",
+    "title": "pwm",
+    "topics": [
+      "liteos",
+      "ota",
+      "pwm"
+    ],
+    "size": 2097,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/pwm/tegra20-pwm.txt",
+    "title": "tegra20-pwm",
+    "topics": [
+      "liteos",
+      "ota",
+      "pwm"
+    ],
+    "size": 508,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/ram/fsl,mpc83xx-mem-controller.txt",
+    "title": "fsl,mpc83xx-mem-controller",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 14278,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/fan53555.txt",
+    "title": "fan53555",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 659,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/fixed.txt",
+    "title": "fixed",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1298,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/max77686.txt",
+    "title": "max77686",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1686,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/regulator.txt",
+    "title": "regulator",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2886,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/sandbox.txt",
+    "title": "sandbox",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1357,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/st,stm32-vrefbuf.txt",
+    "title": "st,stm32-vrefbuf",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 731,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/regulator/tps65090.txt",
+    "title": "tps65090",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2935,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/remoteproc/k3-rproc.txt",
+    "title": "k3-rproc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1874,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/remoteproc/k3-system-controller.txt",
+    "title": "k3-system-controller",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 734,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/remoteproc/remoteproc.txt",
+    "title": "remoteproc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 586,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/reserved-memory/reserved-memory.txt",
+    "title": "reserved-memory",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4844,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/reset/reset.txt",
+    "title": "reset",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2966,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/reset/st,stm32-rcc.txt",
+    "title": "st,stm32-rcc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 227,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/reset/ti,sci-reset.txt",
+    "title": "ti,sci-reset",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1751,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/root.txt",
+    "title": "root",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 105,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/rtc/brcm,brcmstb-waketimer.txt",
+    "title": "brcm,brcmstb-waketimer",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 733,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/8250.txt",
+    "title": "8250",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 2229,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/altera_jtaguart.txt",
+    "title": "altera_jtaguart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 81,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/altera_uart.txt",
+    "title": "altera_uart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 158,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/bcm2835-aux-uart.txt",
+    "title": "bcm2835-aux-uart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 313,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/mcf-uart.txt",
+    "title": "mcf-uart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 334,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/microchip,pic32-uart.txt",
+    "title": "microchip,pic32-uart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 137,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/msm-serial.txt",
+    "title": "msm-serial",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 209,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/mxc-serial.txt",
+    "title": "mxc-serial",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 179,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/omap_serial.txt",
+    "title": "omap_serial",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 1485,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/pl01x.txt",
+    "title": "pl01x",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 360,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/qca,ar9330-uart.txt",
+    "title": "qca,ar9330-uart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 452,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/sandbox-serial.txt",
+    "title": "sandbox-serial",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 424,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/sh.txt",
+    "title": "sh",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 218,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/snps-dw-apb-uart.txt",
+    "title": "snps-dw-apb-uart",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 2659,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/serial/xilinx_uartlite.txt",
+    "title": "xilinx_uartlite",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 398,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/sound/intel-hda.txt",
+    "title": "intel-hda",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 641,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/soft-spi.txt",
+    "title": "soft-spi",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 1106,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-atcspi200.txt",
+    "title": "spi-atcspi200",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 1109,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-ath79.txt",
+    "title": "spi-ath79",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 536,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-bus.txt",
+    "title": "spi-bus",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 3690,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-cadence.txt",
+    "title": "spi-cadence",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 1371,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-mcf-dspi.txt",
+    "title": "spi-mcf-dspi",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 922,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-stm32-qspi.txt",
+    "title": "spi-stm32-qspi",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 1228,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-zynq-qspi.txt",
+    "title": "spi-zynq-qspi",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 829,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi-zynq.txt",
+    "title": "spi-zynq",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 1083,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spi/spi_altera.txt",
+    "title": "spi_altera",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 74,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spmi/spmi-msm.txt",
+    "title": "spmi-msm",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 859,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/spmi/spmi-sandbox.txt",
+    "title": "spmi-sandbox",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 630,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/sysreset/ti,sci-sysreset.txt",
+    "title": "ti,sci-sysreset",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 958,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/thermal/rockchip-thermal.txt",
+    "title": "rockchip-thermal",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2127,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/thermal/ti_soc_thermal.txt",
+    "title": "ti_soc_thermal",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1113,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/timer/altera_timer.txt",
+    "title": "altera_timer",
+    "topics": [
+      "liteos",
+      "ota",
+      "timer"
+    ],
+    "size": 503,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/timer/arc_timer.txt",
+    "title": "arc_timer",
+    "topics": [
+      "liteos",
+      "ota",
+      "timer"
+    ],
+    "size": 470,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/timer/atcpit100_timer.txt",
+    "title": "atcpit100_timer",
+    "topics": [
+      "liteos",
+      "ota",
+      "timer"
+    ],
+    "size": 1000,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/timer/fsl,mpc83xx-timer.txt",
+    "title": "fsl,mpc83xx-timer",
+    "topics": [
+      "liteos",
+      "ota",
+      "timer"
+    ],
+    "size": 522,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/timer/sandbox_timer.txt",
+    "title": "sandbox_timer",
+    "topics": [
+      "liteos",
+      "ota",
+      "timer"
+    ],
+    "size": 144,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/tpm2/sandbox.txt",
+    "title": "sandbox",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 167,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/tpm2/tis-tpm2-spi.txt",
+    "title": "tis-tpm2-spi",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 383,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/usb/dwc2.txt",
+    "title": "dwc2",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2815,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/usb/dwc3-st.txt",
+    "title": "dwc3-st",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1984,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/usb/ehci-msm.txt",
+    "title": "ehci-msm",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 261,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/usb/marvell.xhci-usb.txt",
+    "title": "marvell.xhci-usb",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 972,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/usb/tegra-usb.txt",
+    "title": "tegra-usb",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1125,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/atmel-hlcdc.txt",
+    "title": "atmel-hlcdc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1175,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/bridge/ps8622.txt",
+    "title": "ps8622",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 942,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/display-timing.txt",
+    "title": "display-timing",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4065,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/displaymode.txt",
+    "title": "displaymode",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1315,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/exynos-dp.txt",
+    "title": "exynos-dp",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2242,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/exynos-fb.txt",
+    "title": "exynos-fb",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3440,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/exynos_mipi_dsi.txt",
+    "title": "exynos_mipi_dsi",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3350,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/intel-gma.txt",
+    "title": "intel-gma",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1248,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/osd/gdsys,ihs_video_out.txt",
+    "title": "gdsys,ihs_video_out",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 687,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/rockchip-lvds.txt",
+    "title": "rockchip-lvds",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1876,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/sandbox-fb.txt",
+    "title": "sandbox-fb",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 207,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/simple-framebuffer.txt",
+    "title": "simple-framebuffer",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 806,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/video/tegra20-dc.txt",
+    "title": "tegra20-dc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2428,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/w1/mxc-w1.txt",
+    "title": "mxc-w1",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 918,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/w1/w1-gpio.txt",
+    "title": "w1-gpio",
+    "topics": [
+      "gpio",
+      "liteos",
+      "ota"
+    ],
+    "size": 822,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/w1-eeprom/ds24xxx.txt",
+    "title": "ds24xxx",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 770,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/w1-eeprom/ds2502.txt",
+    "title": "ds2502",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 697,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/device-tree-bindings/w1-eeprom/eep_sandbox.txt",
+    "title": "eep_sandbox",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 720,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/fdt-fixup.txt",
+    "title": "fdt-fixup",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5963,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/fs_firmware_loader.txt",
+    "title": "fs_firmware_loader",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4600,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/i2c-howto.txt",
+    "title": "i2c-howto",
+    "topics": [
+      "i2c",
+      "liteos",
+      "ota"
+    ],
+    "size": 2102,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/livetree.txt",
+    "title": "livetree",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 9505,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/MIGRATION.txt",
+    "title": "MIGRATION",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2768,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/of-plat.txt",
+    "title": "of-plat",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 12932,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/pci-info.txt",
+    "title": "pci-info",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5940,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/pmic-framework.txt",
+    "title": "pmic-framework",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5009,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/README.txt",
+    "title": "README",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 39678,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/remoteproc-framework.txt",
+    "title": "remoteproc-framework",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5189,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/serial-howto.txt",
+    "title": "serial-howto",
+    "topics": [
+      "liteos",
+      "ota",
+      "uart"
+    ],
+    "size": 2001,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/spi-howto.txt",
+    "title": "spi-howto",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 18057,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/driver-model/usb-info.txt",
+    "title": "usb-info",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 17450,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/feature-removal-schedule.txt",
+    "title": "feature-removal-schedule",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1569,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/common/imx25.txt",
+    "title": "imx25",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 309,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/common/imx27.txt",
+    "title": "imx27",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 308,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/common/imx5.txt",
+    "title": "imx5",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1630,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/common/imx6.txt",
+    "title": "imx6",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2243,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/common/mxs.txt",
+    "title": "mxs",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 10875,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/csf_examples/additional_images/csf_additional_images.txt",
+    "title": "csf_additional_images",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1052,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/csf_examples/mx6_mx7/csf_uboot.txt",
+    "title": "csf_uboot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 948,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/csf_examples/mx6_mx7/csf_uboot_fast_authentication.txt",
+    "title": "csf_uboot_fast_authentication",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 628,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/guides/encrypted_boot.txt",
+    "title": "encrypted_boot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1744,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/guides/mx6_mx7_secure_boot.txt",
+    "title": "mx6_mx7_secure_boot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 15637,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/guides/mx6_mx7_spl_secure_boot.txt",
+    "title": "mx6_mx7_spl_secure_boot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 6873,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/habv4/introduction_habv4.txt",
+    "title": "introduction_habv4",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 12627,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/misc/sdp.txt",
+    "title": "sdp",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4000,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/mkimage/imximage.txt",
+    "title": "imximage",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 7546,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/imx/mkimage/mxsimage.txt",
+    "title": "mxsimage",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 6844,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/mvebu/armada-8k-memory.txt",
+    "title": "armada-8k-memory",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1465,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/mvebu/cmd/bubt.txt",
+    "title": "bubt",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 2349,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/README.unaligned-memory-access.txt",
+    "title": "README.unaligned-memory-access",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 9722,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/sphinx/requirements.txt",
+    "title": "requirements",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 46,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/SPI/status.txt",
+    "title": "status",
+    "topics": [
+      "liteos",
+      "ota",
+      "spi"
+    ],
+    "size": 1025,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/beaglebone_vboot.txt",
+    "title": "beaglebone_vboot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 20173,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/command_syntax_extensions.txt",
+    "title": "command_syntax_extensions",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 7397,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/howto.txt",
+    "title": "howto",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 12016,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/overlay-fdt-boot.txt",
+    "title": "overlay-fdt-boot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 5404,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/signature.txt",
+    "title": "signature",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 17523,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/source_file_format.txt",
+    "title": "source_file_format",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 11175,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/verified-boot.txt",
+    "title": "verified-boot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4606,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/doc/uImage.FIT/x86-fit-boot.txt",
+    "title": "x86-fit-boot",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 11884,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Documentation/devicetree/bindings/net/ethernet.txt",
+    "title": "ethernet",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 3058,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/lib/lzma/history.txt",
+    "title": "history",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 7073,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/lib/lzma/license.txt",
+    "title": "license",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 65,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/lib/lzma/lzma.txt",
+    "title": "lzma",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 19704,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/lib/lzma/README.txt",
+    "title": "README",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1023,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/bsd-2-clause.txt",
+    "title": "bsd-2-clause",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1249,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/bsd-3-clause.txt",
+    "title": "bsd-3-clause",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1442,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/eCos-2.0.txt",
+    "title": "eCos-2.0",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1864,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/gpl-2.0.txt",
+    "title": "gpl-2.0",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 18092,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/ibm-pibs.txt",
+    "title": "ibm-pibs",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 849,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/isc.txt",
+    "title": "isc",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 822,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/lgpl-2.0.txt",
+    "title": "lgpl-2.0",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 25383,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/lgpl-2.1.txt",
+    "title": "lgpl-2.1",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 26530,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/OFL.txt",
+    "title": "OFL",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 4575,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/r8a779x_usb3.txt",
+    "title": "r8a779x_usb3",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1451,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/Licenses/x11.txt",
+    "title": "x11",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1337,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/scripts/config_whitelist.txt",
+    "title": "config_whitelist",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 106883,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/scripts/spelling.txt",
+    "title": "spelling",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 25568,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/test/py/README.md",
+    "title": "README",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 16289,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/tools/concurrencytest/README.md",
+    "title": "README",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1494,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/third_party/u-boot-v2019.07/u-boot-v2019.07/tools/patman/test/test01.txt",
+    "title": "test01",
+    "topics": [
+      "liteos",
+      "ota"
+    ],
+    "size": 1540,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/h_file/nv/base_datatype_def.txt",
+    "title": "base_datatype_def",
+    "topics": [
+      "liteos",
+      "storage"
+    ],
+    "size": 511,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/h_file/nv/nv_app_struct_def.txt",
+    "title": "nv_app_struct_def",
+    "topics": [
+      "liteos",
+      "storage"
+    ],
+    "size": 34,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/h_file/nv/nv_factory_struct_def.txt",
+    "title": "nv_factory_struct_def",
+    "topics": [
+      "liteos",
+      "storage"
+    ],
+    "size": 1304,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/device/hisilicon/hispark_pegasus/sdk_liteos/tools/nvtool/h_file/nv/nv_modem_struct_def.txt",
+    "title": "nv_modem_struct_def",
+    "topics": [
+      "liteos",
+      "storage"
+    ],
+    "size": 8147,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/domains/iot/link/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1100,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/domains/iot/link/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1043,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/appexecfwk/appexecfwk_lite/frameworks/bundle_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1788,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/appexecfwk/appexecfwk_lite/interfaces/innerkits/bundlemgr_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 237,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/appexecfwk/appexecfwk_lite/interfaces/kits/bundle_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 825,
+    "source_scope": "public-api"
+  },
+  {
+    "path": "references/source/sdk/foundation/appexecfwk/appexecfwk_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3488,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/appexecfwk/appexecfwk_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 2861,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/appexecfwk/appexecfwk_lite/services/bundlemgr_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2329,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/softbus_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3326,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/softbus_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 3004,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 13218,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "wifi"
+    ],
+    "size": 12833,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi_aware/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 1533,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi_aware/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "wifi"
+    ],
+    "size": 1431,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi_lite/interfaces/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 297,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi_lite/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 192,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/communication/wifi_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [
+      "wifi"
+    ],
+    "size": 2255,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/distributeddatamgr/appdatamgr/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 4719,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/distributeddatamgr/appdatamgr/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 7011,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/distributedschedule/samgr_lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 24466,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/foundation/distributedschedule/samgr_lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 23183,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/prebuilts/lite/sysroot/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2188,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/prebuilts/lite/sysroot/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 1883,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/productdefine/common/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 3844,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xdevice/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 10611,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xdevice/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 8993,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xdevice/src/xdevice/_core/resource/template/report.html",
+    "title": "report",
+    "topics": [],
+    "size": 16829,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xts/tools/lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 31445,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xts/tools/lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 29877,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xts/tools/lite/reliability/readme.md",
+    "title": "readme",
+    "topics": [],
+    "size": 7467,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xts/tools/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 40925,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/test/xts/tools/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 37928,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/.github/CONTRIBUTING.md",
+    "title": "CONTRIBUTING",
+    "topics": [],
+    "size": 2386,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/CHANGELOG.md",
+    "title": "CHANGELOG",
+    "topics": [],
+    "size": 23673,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 9922,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/CONTRIBUTORS.md",
+    "title": "CONTRIBUTORS",
+    "topics": [],
+    "size": 3343,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/fuzzing/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1169,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 27272,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 4530,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/json-patch-tests/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2306,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/license.txt",
+    "title": "license",
+    "topics": [],
+    "size": 1123,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/ThrowTheSwitchCodingStandard.md",
+    "title": "ThrowTheSwitchCodingStandard",
+    "topics": [],
+    "size": 8092,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/UnityAssertionsCheatSheetSuitableforPrintingandPossiblyFraming.pdf",
+    "title": "UnityAssertionsCheatSheetSuitableforPrintingandPossiblyFraming",
+    "topics": [],
+    "size": 144467,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/UnityAssertionsReference.md",
+    "title": "UnityAssertionsReference",
+    "topics": [],
+    "size": 28588,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/UnityConfigurationGuide.md",
+    "title": "UnityConfigurationGuide",
+    "topics": [],
+    "size": 18107,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/UnityGettingStartedGuide.md",
+    "title": "UnityGettingStartedGuide",
+    "topics": [],
+    "size": 8249,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/docs/UnityHelperScriptsGuide.md",
+    "title": "UnityHelperScriptsGuide",
+    "topics": [],
+    "size": 9332,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/examples/example_1/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 139,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/examples/example_2/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 175,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/examples/example_3/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 696,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/extras/eclipse/error_parsers.txt",
+    "title": "error_parsers",
+    "topics": [],
+    "size": 1138,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/extras/fixture/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 515,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/cJSON/tests/unity/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 7806,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/httpd/src/http/fs/404.html",
+    "title": "404",
+    "topics": [
+      "network"
+    ],
+    "size": 544,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/httpd/src/http/fs/index.html",
+    "title": "index",
+    "topics": [
+      "network"
+    ],
+    "size": 1704,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/httpd/src/http/makefsdata/readme.txt",
+    "title": "readme",
+    "topics": [
+      "network"
+    ],
+    "size": 625,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/.github/issue_template.md",
+    "title": "issue_template",
+    "topics": [
+      "security"
+    ],
+    "size": 1237,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/.github/pull_request_template.md",
+    "title": "pull_request_template",
+    "topics": [
+      "security"
+    ],
+    "size": 1249,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/apache-2.0.txt",
+    "title": "apache-2.0",
+    "topics": [
+      "security"
+    ],
+    "size": 11358,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/ChangeLog.d/00README.md",
+    "title": "00README",
+    "topics": [
+      "security"
+    ],
+    "size": 3229,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 10129,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/configs/README.txt",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 1050,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/CONTRIBUTING.md",
+    "title": "CONTRIBUTING",
+    "topics": [
+      "security"
+    ],
+    "size": 8798,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/dco.txt",
+    "title": "dco",
+    "topics": [
+      "security"
+    ],
+    "size": 1421,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/gpl-2.0.txt",
+    "title": "gpl-2.0",
+    "topics": [
+      "security"
+    ],
+    "size": 18092,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/include/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 501,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/library/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 5325,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/aes/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 350,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 184,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/hash/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 322,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/pkey/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 1953,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/pkey/dh_prime.txt",
+    "title": "dh_prime",
+    "topics": [
+      "security"
+    ],
+    "size": 524,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/pkey/rsa_priv.txt",
+    "title": "rsa_priv",
+    "topics": [
+      "security"
+    ],
+    "size": 1209,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/pkey/rsa_pub.txt",
+    "title": "rsa_pub",
+    "topics": [
+      "security"
+    ],
+    "size": 274,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/random/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 500,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 8594,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/ssl/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 1741,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/test/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 1054,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/util/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 342,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/programs/x509/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 796,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 11045,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/scripts/data_files/rename-1.3-2.0.txt",
+    "title": "rename-1.3-2.0",
+    "topics": [
+      "security"
+    ],
+    "size": 107108,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/tests/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "security"
+    ],
+    "size": 5094,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/tests/data_files/dir-maxpath/Readme.txt",
+    "title": "Readme",
+    "topics": [
+      "security"
+    ],
+    "size": 321,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/tests/data_files/Readme-x509.txt",
+    "title": "Readme-x509",
+    "topics": [
+      "security"
+    ],
+    "size": 5679,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/tests/Descriptions.txt",
+    "title": "Descriptions",
+    "topics": [
+      "security"
+    ],
+    "size": 1077,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/mbedtls/tests/git-scripts/README.md",
+    "title": "README",
+    "topics": [
+      "security"
+    ],
+    "size": 901,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/about.html",
+    "title": "about",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1605,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1579,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/CONTRIBUTING.md",
+    "title": "CONTRIBUTING",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 3605,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 778,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient/samples/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 700,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient/samples/linux/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1017,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient/test/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 671,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient-C/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 777,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient-C/samples/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 723,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient-C/samples/linux/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 956,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient-C/samples/ohos/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 2049,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient-C/src/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1102,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTClient-C/test/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 659,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTPacket/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 777,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTPacket/samples/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1036,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTPacket/src/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1411,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/MQTTPacket/test/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 997,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/notice.html",
+    "title": "notice",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 9230,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/paho.mqtt.embedded-c/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 5645,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1425,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/docs/ThrowTheSwitchCodingStandard.md",
+    "title": "ThrowTheSwitchCodingStandard",
+    "topics": [],
+    "size": 8048,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/docs/UnityAssertionsCheatSheetSuitableforPrintingandPossiblyFraming.pdf",
+    "title": "UnityAssertionsCheatSheetSuitableforPrintingandPossiblyFraming",
+    "topics": [],
+    "size": 144467,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/docs/UnityAssertionsReference.md",
+    "title": "UnityAssertionsReference",
+    "topics": [],
+    "size": 31859,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/docs/UnityConfigurationGuide.md",
+    "title": "UnityConfigurationGuide",
+    "topics": [],
+    "size": 20750,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/docs/UnityGettingStartedGuide.md",
+    "title": "UnityGettingStartedGuide",
+    "topics": [],
+    "size": 10090,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/docs/UnityHelperScriptsGuide.md",
+    "title": "UnityHelperScriptsGuide",
+    "topics": [],
+    "size": 9822,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/examples/example_1/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 139,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/examples/example_2/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 175,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/examples/example_3/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 696,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/examples/example_4/readme.txt",
+    "title": "readme",
+    "topics": [],
+    "size": 425,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/extras/eclipse/error_parsers.txt",
+    "title": "error_parsers",
+    "topics": [],
+    "size": 1138,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/extras/fixture/readme.md",
+    "title": "readme",
+    "topics": [],
+    "size": 1011,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/extras/memory/readme.md",
+    "title": "readme",
+    "topics": [],
+    "size": 2255,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/LICENSE.txt",
+    "title": "LICENSE",
+    "topics": [],
+    "size": 1123,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 6650,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/third_party/unity/src/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 1259,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/utils/native/lite/js/builtin/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [],
+    "size": 2893,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/utils/native/lite/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 9908,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/utils/native/lite/README_zh.md",
+    "title": "README_zh",
+    "topics": [],
+    "size": 9380,
+    "source_scope": "hi3861-sdk"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/iot_link/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 762,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/about.html",
+    "title": "about",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1605,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1579,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/CONTRIBUTING.md",
+    "title": "CONTRIBUTING",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 3605,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/MQTTClient-C/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 777,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/MQTTPacket/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 777,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/MQTTPacket/src/CMakeLists.txt",
+    "title": "CMakeLists",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 1411,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/common/third_party/paho_mqtt/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 3234,
+    "source_scope": "third-party"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/A1_kernal_thread/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3730,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/A2_kernel_timer/README.md",
+    "title": "README",
+    "topics": [
+      "liteos",
+      "timer"
+    ],
+    "size": 4045,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/A3_kernel_event/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 4852,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/A4_kernel_mutex/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 5707,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/A5_kernel_semaphore/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 5808,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/A6_kernel_message/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 5140,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/B1_basic_led_blink/README.md",
+    "title": "README",
+    "topics": [
+      "gpio"
+    ],
+    "size": 3191,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/B2_basic_button/README.md",
+    "title": "README",
+    "topics": [
+      "gpio"
+    ],
+    "size": 5246,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/B3_basic_pwm_led/README.md",
+    "title": "README",
+    "topics": [
+      "gpio",
+      "pwm"
+    ],
+    "size": 3884,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/B4_basic_adc/README.md",
+    "title": "README",
+    "topics": [
+      "adc"
+    ],
+    "size": 3895,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/B5_basic_i2c_nfc/README.md",
+    "title": "README",
+    "topics": [
+      "i2c"
+    ],
+    "size": 4515,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/B6_basic_uart/README.md",
+    "title": "README",
+    "topics": [
+      "uart"
+    ],
+    "size": 4043,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/C1_e53_sf1_mq2/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3968,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/C2_e53_ia1_temp_humi_pls/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 5156,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/C3_e53_sc1_pls/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3937,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/C4_e53_sc2_axis/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 5034,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/C5_e53_is1_infrared/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3274,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D10_iot_cloud_oc_infrared/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 6716,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D11_iot_cloud_oc_agriculture/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 12108,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D12_iot_cloud_oc_gps/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 7550,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D1_iot_wifi_ap/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 5423,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D2_iot_wifi_sta_connect/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 6507,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D3_iot_udp_client/README.md",
+    "title": "README",
+    "topics": [
+      "network"
+    ],
+    "size": 4555,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D4_iot_tcp_server/README.md",
+    "title": "README",
+    "topics": [
+      "network"
+    ],
+    "size": 7085,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D5_iot_mqtt/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 3995,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D6_iot_cloud_oc/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 15303,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D7_iot_cloud_oc_smoke/README.md",
+    "title": "README",
+    "topics": [
+      "adc",
+      "mqtt"
+    ],
+    "size": 10180,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D8_iot_cloud_oc_light/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 10152,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/demo/D9_iot_cloud_oc_manhole_cover/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 7945,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/BearPi-HM_Nano十分钟上手.md",
+    "title": "BearPi-HM_Nano十分钟上手",
+    "topics": [],
+    "size": 11702,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/BearPi-HM_Nano开发指导.md",
+    "title": "BearPi-HM_Nano开发指导",
+    "topics": [],
+    "size": 5932,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/BearPi-HM_Nano原理图.pdf",
+    "title": "BearPi-HM_Nano原理图",
+    "topics": [],
+    "size": 444504,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/BearPi_HM Nano 芯片手册.pdf",
+    "title": "BearPi_HM Nano 芯片手册",
+    "topics": [],
+    "size": 681818,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/E53_SCH/E53_IA1.pdf",
+    "title": "E53_IA1",
+    "topics": [],
+    "size": 147893,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/E53_SCH/E53_IS1.pdf",
+    "title": "E53_IS1",
+    "topics": [],
+    "size": 147612,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/E53_SCH/E53_SC1.pdf",
+    "title": "E53_SC1",
+    "topics": [],
+    "size": 107288,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/E53_SCH/E53_SC2.pdf",
+    "title": "E53_SC2",
+    "topics": [],
+    "size": 113676,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/E53_SCH/E53_SF1.pdf",
+    "title": "E53_SF1",
+    "topics": [],
+    "size": 106568,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/bearpi/bearpi_hm_nano/doc/board/E53_SCH/E53_ST1.pdf",
+    "title": "E53_ST1",
+    "topics": [],
+    "size": 157314,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/00_thread/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 7813,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/01_timer/README.md",
+    "title": "README",
+    "topics": [
+      "timer"
+    ],
+    "size": 4571,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/02_delay/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3049,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/03_mutex/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 5197,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/04_semaphore/README.md",
+    "title": "README",
+    "topics": [
+      "liteos"
+    ],
+    "size": 5754,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/05_message/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 6677,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/06_gpioled/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3112,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/07_gpiobutton/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3615,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/08_pwmled/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3233,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/09_adc/README.md",
+    "title": "README",
+    "topics": [
+      "adc"
+    ],
+    "size": 2684,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/10_i2caht20/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 4365,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/11_uart/README.md",
+    "title": "README",
+    "topics": [
+      "uart"
+    ],
+    "size": 65140,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/12_ssd1306/README.md",
+    "title": "README",
+    "topics": [
+      "i2c"
+    ],
+    "size": 6867,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/12_ssd1306/requirements.txt",
+    "title": "requirements",
+    "topics": [
+      "i2c"
+    ],
+    "size": 73,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/13_oledplayer/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3997,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/14_pwmbeer/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2782,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/15_pwmbeermusic/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2755,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/16_trafficlight/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2909,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/17_colorfullight/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2892,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/18_environment/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 3078,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/19_wificonnect/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 8620,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/20_wifihotspot/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 6699,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/21_tcpclient/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 11609,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/22_tcpserver/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 11609,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/23_udpclient/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 11609,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/24_udpserver/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 11609,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/25_sntp/README.md",
+    "title": "README",
+    "topics": [
+      "network"
+    ],
+    "size": 771,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/26_paho.mqtt.embedded-c/README.md",
+    "title": "README",
+    "topics": [
+      "mqtt"
+    ],
+    "size": 5643,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/27_httpd/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1469,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/demo/28_easy_wifi/README.md",
+    "title": "README",
+    "topics": [
+      "wifi"
+    ],
+    "size": 5178,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/1. 【润和满天星系列】Pegasus Wi-Fi IoT智能家居套件.pdf",
+    "title": "1. 【润和满天星系列】Pegasus Wi-Fi IoT智能家居套件",
+    "topics": [],
+    "size": 3892007,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 ANY软件 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 ANY软件 开发指南",
+    "topics": [],
+    "size": 229742,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 AT命令 使用指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 AT命令 使用指南",
+    "topics": [],
+    "size": 876975,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 Boot移植应用 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 Boot移植应用 开发指南",
+    "topics": [
+      "ota"
+    ],
+    "size": 348938,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 cJson 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 cJson 开发指南",
+    "topics": [],
+    "size": 159345,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 CoAP 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 CoAP 开发指南",
+    "topics": [
+      "network"
+    ],
+    "size": 183146,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 OSA&FreeRTOS API适配指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 OSA&FreeRTOS API适配指南",
+    "topics": [],
+    "size": 263032,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 RPL 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 RPL 开发指南",
+    "topics": [],
+    "size": 192015,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 SDK 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 SDK 开发指南",
+    "topics": [],
+    "size": 437155,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 SDK开发环境搭建 用户指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 SDK开发环境搭建 用户指南",
+    "topics": [],
+    "size": 494088,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 TLS&DTLS 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 TLS&DTLS 开发指南",
+    "topics": [
+      "security"
+    ],
+    "size": 149501,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 Wi-Fi软件 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 Wi-Fi软件 开发指南",
+    "topics": [],
+    "size": 322448,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 二次开发网络安全 注意事项.pdf",
+    "title": "Hi3861V100／Hi3861LV100 二次开发网络安全 注意事项",
+    "topics": [],
+    "size": 213011,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 低功耗 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 低功耗 开发指南",
+    "topics": [
+      "power"
+    ],
+    "size": 229029,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 升级 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 升级 开发指南",
+    "topics": [],
+    "size": 143808,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 单板冒烟 测试指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 单板冒烟 测试指南",
+    "topics": [],
+    "size": 204936,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 安全模块 使用指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 安全模块 使用指南",
+    "topics": [],
+    "size": 356043,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 常见问题 FAQ.pdf",
+    "title": "Hi3861V100／Hi3861LV100 常见问题 FAQ",
+    "topics": [],
+    "size": 642909,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 文件系统 使用指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 文件系统 使用指南",
+    "topics": [],
+    "size": 173873,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 第三方软件 移植指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 第三方软件 移植指南",
+    "topics": [],
+    "size": 146998,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/Hi3861V100／Hi3861LV100 设备驱动 开发指南.pdf",
+    "title": "Hi3861V100／Hi3861LV100 设备驱动 开发指南",
+    "topics": [],
+    "size": 345477,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/docs/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 353,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/Hihope-hispark_pegasus-十分钟上手.md",
+    "title": "Hihope-hispark_pegasus-十分钟上手",
+    "topics": [],
+    "size": 11743,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hihope/hispark_pegasus/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 2599,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/board/HiSpark_Link+VER.B.pdf",
+    "title": "HiSpark_Link+VER.B",
+    "topics": [],
+    "size": 602136,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/board/HISPARKM1+VER.A.pdf",
+    "title": "HISPARKM1+VER.A",
+    "topics": [],
+    "size": 1909290,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/board/HISPARKM1_BOTTOM.pdf",
+    "title": "HISPARKM1_BOTTOM",
+    "topics": [],
+    "size": 18841,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/board/HISPARKM1_TOP.pdf",
+    "title": "HISPARKM1_TOP",
+    "topics": [],
+    "size": 216884,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/board/硬件license（中文版）.pdf",
+    "title": "硬件license（中文版）",
+    "topics": [],
+    "size": 199420,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/微处理器实验指导手册.md",
+    "title": "微处理器实验指导手册",
+    "topics": [],
+    "size": 202329,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/doc/微处理器实验指导手册.pdf",
+    "title": "微处理器实验指导手册",
+    "topics": [],
+    "size": 12002382,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/HiSpark_M1十分钟上手.md",
+    "title": "HiSpark_M1十分钟上手",
+    "topics": [],
+    "size": 11541,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_M1/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 1369,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hisilicon/hispark_pegasus/demo/oc_demo/README.md",
+    "title": "README",
+    "topics": [],
+    "size": 8955,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hqyj/fs_hi3861/doc/board/FS-Hi3861-V4.2.pdf",
+    "title": "FS-Hi3861-V4.2",
+    "topics": [],
+    "size": 4113663,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hqyj/fs_hi3861/doc/board/FS-Hi3861QDB-V3.2.pdf",
+    "title": "FS-Hi3861QDB-V3.2",
+    "topics": [],
+    "size": 1049860,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hqyj/fs_hi3861/doc/HarmonyOS开发板实验指导书 v2.1.pdf",
+    "title": "HarmonyOS开发板实验指导书 v2.1",
+    "topics": [],
+    "size": 9611083,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hqyj/fs_hi3861/doc/华清远见 FS_Hi3861开发指导.md",
+    "title": "华清远见 FS_Hi3861开发指导",
+    "topics": [],
+    "size": 11439,
+    "source_scope": "vendor"
+  },
+  {
+    "path": "references/source/sdk/vendor/hqyj/fs_hi3861/doc/华清远见 FS_Hi3861新手入门手册.md",
+    "title": "华清远见 FS_Hi3861新手入门手册",
+    "topics": [],
+    "size": 10853,
+    "source_scope": "vendor"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-20T19:15:28.434777+00:00",
+  "default_board": "pz-hi3861",
+  "counts": {
+    "source_files": 25806,
+    "api_records": 2880,
+    "unique_api_symbols": 2486,
+    "examples": 201,
+    "runnable_examples": 191,
+    "configs": 7293,
+    "documents": 634
+  }
+}

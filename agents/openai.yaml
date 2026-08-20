@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hi3861 Development"
+  short_description: "Develop and debug Hi3861V100 OpenHarmony firmware"
+  default_prompt: "Use $hi3861-dev-skill to build or debug a Hi3861V100 firmware project."
+
+policy:
+  allow_implicit_invocation: true
