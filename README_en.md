@@ -2,7 +2,7 @@
 
 # hi3861-dev-skill
 
-HiSilicon Hi3861V100 / OpenHarmony / LiteOS-M firmware development skill for Codex. The repository includes a complete SDK snapshot and search indexes generated from it, supporting peripheral development, RTOS, networking, cloud integration, storage, upgrades, security, low power, builds, and debugging.
+HiSilicon Hi3861V100 / OpenHarmony / LiteOS-M firmware development skill with Codex support. The repository includes a complete SDK snapshot and search indexes generated from it, supporting peripheral development, RTOS, networking, cloud integration, storage, upgrades, security, low power, builds, and debugging.
 
 ## Support range
 
