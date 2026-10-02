@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 # hi3861-dev-skill
 
 面向 Codex 的 HiSilicon Hi3861V100 / OpenHarmony / LiteOS-M 固件开发 Skill。仓库内置完整 SDK 快照和由该快照生成的检索索引，可用于外设开发、RTOS、联网、云接入、存储、升级、安全、低功耗以及构建调试。
